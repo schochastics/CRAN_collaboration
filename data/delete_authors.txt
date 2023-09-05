@@ -1,0 +1,882 @@
+contributors
+jQuery contributors
+Agriculture Ministry of Peru MINAGRI
+see COPYRIGHTS file for the authors of the java libraries
+Agronomy Faculty
+See AUTHORS file.
+Space Informatics Lab
+S original by David W. Scott R port by Albrecht Gebhardt
+Virginia Institute of Marine Science
+William & Mary PO Box 1346
+VA 23062
+Free Software Foundation
+The Apache Software Foundation Apache Commons Codec
+Win-Vector LLC
+United Nations Population Division
+United Nations.
+Social Affairs
+Worth Pub Grp LLC DBA Macmillan Learning
+Lawrence Livermore National Security
+National Science Foundation Grant DMS1810829
+The authors of the dependency Rust crates
+Lawrence Livermore National Security
+The Social Research Centre
+Paris
+France
+German Cancer Research Center DKFZ
+Research group of Computational Systems Medicine
+Chair of Experimental Bioinformatics
+Analythium Solutions Inc.
+Swiss Federal Statistical Office
+Swiss Foundation KORA Carnivore Ecology
+USA
+Alcoholism NIAAA Award Number R03 AA019775
+Trustees of Columbia University
+Next Game Solutions
+Bayer HealthCare
+Data Analytics at Texas A&M DATA Lab
+Royal Bank of Canada RBC
+Cornell Lab of Ornithology
+Y.'
+R Documentation Task Force
+others See Authors in each function manual
+Development Corporation GRDC Project
+            USQ1903-003RTX
+The Apache Software Foundation
+Observational Health Data Science
+Crown Copyright 2019
+The development of the graphkernels open access software package was financially supported by the Horizon 2020/CDS-QUAMRI/634541 project. This support is gratefully acknowledged.
+Centre for Research in Environmental Epidemiology
+NY.
+The School of Business
+JWNL development team
+Crescendo Technology Ltd.
+UC Berkeley Data Science Education Program
+using the JMapViewer library by Jan Peter Stotz
+Central Bank of Chile
+Kompetenzzentrum Wasser Berlin gGmbH
+SETAC Europe IG Effect Modeling
+Madigan Army Medical Center -
+MADE.com
+Communication Technology for you ONG ICT4U-ONG
+C++ implementation
+Department of Psychology
+Inc.
+UW-Milwaukee
+Finnish Museum of Natural History - Luomus
+Analytics API Support
+dlib package authors see file AUTHORS
+Associação Brasileira de Jurimetria
+2 Degrees Investing Initiative
+cre
+ctb
+System1
+2019 The President
+INSEE
+BIFIE
+Vivid Solutions Inc.
+Refractions Research Inc.
+GEOS authors
+Stackoverflow User user2592414
+BannedWordList.com
+Grammar Revolution
+belonging to the suite Quadpack.
+International-Harvard Statistical Consulting Company
+a modified version of dpodi/LINPACK
+a modified version of the R math libraries R core development team. Original copyright notices have been maintained in all source files. In these cases
+a public university
+Statistical Consulting - intelligent data analysis
+stochastic modelling
+statistical inference
+MADGRAD original implementation authors.
+liblwgeom developers
+the Python module Astropy.
+much more by Martin Maechler.
+partially
+GSK/Atorus JPT
+Federal Office for Gender Equality of Switzerland
+images
+U.S. NIST
+authors of 'lm.gls'
+authors of R function 'lm'
+Rijkswaterstaat - The Netherlands
+kseniak.ucoz.net
+Ermlab
+Packaged for R
+Centre d'études prospectives et d'informations internationales CEPII
+Aargau Biodiversity Monitoring Program LANAG
+about 2.2e5 survey participants
+U.S. National Science Foundation
+Numerious Inc.
+Crown Copyright 2021
+F. Hoffmann-La Roche AG
+GlaxoSmithKline LLC
+'gzstream' authors.
+'sumtxt' from GitHub
+@javrucebo
+@marc-outins
+1990.
+2006 by Dominick Samperi
+Kartena AB 
+Leaflet
+Cloud Made
+Weecology
+Mental Health Research UK
+Copyright © 2022 Koninklijke Philips N.V.
+ller
+uuml
+Statisticat
+family = SRL
+modifications by Jun Yan
+Ministry of Environment
+Habitat Conservation Trust Foundation
+Wildlife Compensation Program
+Freshwater Fish Society of BC
+CELEHS
+PARSE LTD
+jdf.scr.ir
+the JBrowse 2 Team
+Minnesota Population Center
+Vogelwarte Hiddensee
+CliffCloud
+Fonds Sauvegarde Faune Flore Jurassienne - Groupe Pèlerin Jura
+Idaho
+Fisheries
+Monitoring Avian Productivity
+Survivorship program MAPS
+Division of Conservation Biology
+IP2Location
+QuipoLab
+maloneypatr
+FCT
+Univ. ParisSaclay
+UMR EGCE
+IRD
+"Image Processing On Line
+Wildlife Research
+Exstrom Laboratories LLC
+ImmunoMind
+dlib authors
+Cloudera
+IPOL Image Processing On Line
+Vrije Universiteit Brussel - DIGI: Brussels Platform for Digital Humanities
+Plotly
+Genentech
+Co. Inc.
+OpenAltimetry.org
+Interpretable AI LLC
+NSF DBI 2132247
+CIRAD
+IBM
+Neurobat AG
+EUROCONTROL
+based in part on an earlier implementation by Ruth Heller
+NHLBI
+H20.ai
+GRDC Project DAQ00186
+WG127 SCOR/IAPSO
+CEFET/RJ
+GraphQL
+Institut de Recherche pour le Développement
+Centre National de la Recherche Scientifique
+Clapp
+Genuity Science
+IBM Corporation
+Sunholo Ltd
+Ascent Digital Services UK Limited
+of the NIH
+Inc. Funded by the Intramural Research Program
+its affiliates
+Helmholtz-Zentrum Dresden-Rossendorf
+RATP Group
+Co.
+SRL
+ixpantia
+Institut de Recherches Internationales Servier
+Beap Lab
+AT
+T
+MeteoSwiss
+CINTESIS
+British Ornithological Trust
+Centre for Ecology
+Hydrology
+eMammal
+Wildlife Management SCALP project
+UK Butterfly Monitoring Scheme UKBMS
+Authors@R. cpersonAbdisalam
+role=caut
+personSamuel
+role=cctb
+personOscar
+personMutua
+role = cctb
+AIRR Community
+YYYY Association for Computing Machinery
+Inc.
+ALTADATA Inc.
+Altairs
+Opifex
+DigitalOcean
+Informatics
+M.A.J. Zondervan-Zwijnenburg
+RTE
+USC Biostatistics
+Computer
+INSEAD Fontainebleau France
+RinteRface
+Creative Tim
+Python Software Foundation
+Ascent
+Grains Research
+British Red Cross
+Cqls Team
+Axibase Corporation
+ThinkR
+Folkehelseinstituttet
+ICAR-NBGPR
+chief designer
+implementation
+testing
+M DATA Lab
+httr development team
+Microsoft
+dbplyr development team
+AzureML R SDK Team
+Google Inc.
+Decision Patterns
+Apache Foundation
+O.
+S.
+D.
+Arnošt Komárek
+František Bartoš
+F.C. Liu
+JM Martinez
+EG Birgin
+W LaCruz
+Province of British Columbia
+Statistics Poland
+R/stanmodels.R
+Gloucester Point
+GfK SE
+Lapack 3.8
+Department of Computer Science
+Knoxville
+Kungliga Tekniska Högskolan
+NAVER Corp
+NIEHS
+BeiGene
+Ltd. Nasdaq: BGNE
+HKEX: 06160
+Wildlife Acoustics
+inc.
+WavX
+Development Corporation
+extensions by Martin Maechler
+revised
+modified by Steve Dutky
+PBC
+FriendCode Inc
+creator of the BOOM project. Some code in the BOOM libraries has been modified from other open source projects. These include Cephes obtained from Netlib
+written by Stephen L. Moshier
+obtained from Powell's web site
+copyright claimed by Steven L. Scott is limited to modifications made to the original code. Google claims copyright for code written while Steven L. Scott was employed at Google from 2008 - 2018
+but BOOM is not an officially supported Google project.
+S original
+from StatLib
+Dep. Gastroenterology
+Google
+Inc
+OpenBUGS was developed by Andrew Thomas
+most recent developments by Chris Jackson.
+Almasaeed Studio
+PayPal
+BNOSAC
+others see COPYRIGHTS
+RuleQuest Research
+Rulequest Research Pty Ltd.
+Investigative Reporting Workshop
+Statistics Canada
+Kidney NCCR.CH
+Flow-Based-Cartograms
+Trivadis AG
+Haematology Research Unit - Aalborg
+Instituto Nacional de Estadisticas INE
+Certara USA
+file inst/AUTHORS
+rOpenSci
+Subsecretaria de Desarrollo Regional SUBDERE
+Kauê de Sousa
+NWEA
+Decision Analyst
+Trulia
+S-plus original by Ulric Lund
+PEAK AI LIMITED
+Search Discovery
+LLC
+Google Inc
+Example
+Kognise
+MIRACUM - Medical Informatics in Research
+Universitätsklinikum Erlangen
+BSC-CNS
+Open Analytics
+InsightRX
+Lifebit Biotech Ltd.
+U.S.
+NumPys
+Comtek Advanced Structures
+Ltd.
+Utiligize ApS
+WPS publisher
+MD
+PhD
+Original Matlab routines by C.J.F. ter Braak
+Mapbox
+LINE Corporation
+R.W. Alexandrowicz function stirling_cfa
+some package testing by Mark Stemmler
+NSF OAC 1839201
+Kropko
+Barfield
+R.
+Conneely
+K.
+V
+luyilin
+Dr. Sadikul Islam
+Dr. Md Yeasin
+Dr. M. Muruganandam
+Dr. M. Madhu
+jQuery Foundation
+three.js authors
+Students REU13
+Software AG
+Observational Health Data Sciences
+Plotly Technologies
+Appsilon Sp. z o.o.
+Ma. Regina Paz Onglao-Drilon
+Microsoft Inc.
+PostgreSQL Global Development Group
+Oracle Inc.
+P3S Corporation
+Byte
+KUBO Takehiro
+X Consortium
+CAVD DataSpace
+DataZoom PUC-Rio
+R Special Interest Group on Databases R-SIG-DB
+Imperial College of Science
+Technology
+descriptions
+Tidylab
+skullkey
+jdetribol
+tql2
+tred2 written by the EISPLACK authors
+dgedi
+dgefa from LINPACK written by Cleve Moler
+daxpy
+dscal
+dswap
+idamax from LINPACK written by Jack Dongarra
+VERT from NAPACK authors unstated
+AS 78 written by J. C. Gower
+AS 143 written by F. K. Bedall
+AS 307 written by P.J. Rousseeuw
+modifications by Douglas Bates
+modifications for 7th edition by John Verzani.
+R Core Team worldwide
+Vonage Holdings Corp.
+JQuery Foundation
+Huddle
+S-plus by Dario Ringach
+NYU.edu
+Institut national de la statistique et des études économiques
+Tillotts Pharma AG
+Microbiology of Nizhny Novgorod
+Google LLC
+energie360° AG
+cynkra GmbH
+Chanyub Park
+hiyijian
+ArData
+CannaData Solutions
+Revolution Analytics
+Microsoft Corporation
+Laboratoire national de santé
+R-core
+daqana GmbH
+Curso-R
+MOLGENIS org
+OBiBa group
+Rexstad Eric
+Stat.ASSQ
+SpryMedia Limited
+Stichting DuckDB Foundation
+Apache Software Foundation
+RAD Game Tools
+Tenacious Software LLC
+Art.sy
+Boost developers
+Univ. Paris Cité
+CNRS UMR 7501
+Univ. Paris Descartes
+Instituto Nacional de Estadistica
+ChinYong Lim
+Helgasoft
+BlueGreen Labs
+NIMBioS
+Open Trade Statistics
+Gunratan Lonare
+Commonwealth of Australia AEC
+Biomedical Data Science Lab
+Universitat Politècnica de València Spain
+Department of Biomedical Informatics
+others see GitHub
+IBM Corp.
+Open Water Analytics
+MRC IEU
+EpiForecasts
+ISciences
+Analytics
+Vannes
+Rennes
+compiled by Kjetil B Halvorsen
+Lifetime Extension Center
+Technische Universität Dresden
+EcoHealth Alliance
+USAID PREDICT
+TU Munich
+Tessil
+SC2S2
+OpenReliability.org
+CRAN Team
+LevelDB Authors
+T Reserach Labs.
+CTFS-ForestGEO
+INRAE
+code by Fionn Murtagh
+R development team
+modifications
+packaging by Peter Langfelder
+Sencha Labs
+HERE Europe B.V.
+CENSUR working survival group
+ORNL
+CRAN team
+Bitstream
+Google Corporation
+the R community fortunes. Contributions fortunes and/or code by Torsten Hothorn
+as represented by the Minister of Natural Resources Canada
+AIBRT
+onkbear
+Colorlib
+LifeWatch Belgium
+Joyent
+Greencastle Indiana USA
+SeatGeek Inc
+EDP Renewables
+Netpeak
+Archéosciences Bordeaux
+Université Bordeaux Montaigne
+CNRS
+LabEx Sciences archéologiques de Bordeaux
+Idex Aix-Marseille
+NCI
+GBMs
+Global Paleofire Working Group
+Dropbox
+others
+Lapack authors
+CRAN team corrections in 2022
+ETH Zürich
+Activinsights Ltd
+Global Crop Diversity Trust
+PMP SA.
+Ipea - Institue for Applied Economic Research
+Dropbox Inc
+Infraestrutura de Datos Espaciales
+Servicio Geográfico Militar
+Instituto Nacional de Estadística
+Instituto Geográfico Militar
+Ordenamiento Territorial y Medio Ambiente
+Inkaverse
+ProPublica
+Accelting
+ggplot2 authors
+RNA Bioscience Initiative
+Trifacta Inc.
+EuroGeographics
+Oregon National Primate Research Center grant P51 OD011092
+Development Corporation GRDC Project USQ1903-003RTX
+F. Hoffmann-La Roche Ltd.
+Department of Knowledge Technologies
+SentiWordNet
+Grammar Revolution
+transition to Plan 9 codebase by Roger Bivand.
+Environmental Informatics Marburg
+Interdisciplinary Sleep Research Group GIPSO
+AUTUMN41
+https://github.com/mandreyel/
+Atorus Research LLC
+mHealth Research Group
+großBM team
+B. D. Ripley author of original lda
+qda functions
+W. N. Venables author of original lda
+Eurofins Regulatory AG
+based in part on C code written by Laurence T. Maloney
+CodeAi
+GQMS CoreFunctions Team
+PhD
+MVBVU.
+Dept. of Integrative Biology
+U.C. Berkeley
+Sparkfish Analytics
+MongoDB
+Zucchini 1988
+Inria
+Metrum Research Group
+YouGov
+LAPACK authors
+comments go to Aida Eslami
+MuToss Coding Team Berlin 2010
+FONDECYT/ANID Project 11170583
+MCIN/AEI/10.13039/501100011033 Project no. PID2019-108576RB-I00
+UCT VIP Project FEQUIP2019-INRN-03
+www.hamcrest.org
+Contributors
+INRIA
+NAEP Primer data by Emmanuel Sikali. Creation of by Paul Bailey
+Applied Linguistics
+Nasdaq Data Link.
+Neo4J
+NEON National Ecological Observatory Network
+Université de Strasbourg
+SocioPatterns.org
+et al
+et. al.
+Discindo
+NHS-R community
+Technology NIST http://www.itl.nist.gov/div898/strd/nls/nls_main.shtml Douglas Bates
+EISPACK authors
+Numeract LLC
+AstraZeneca
+Oregon National Primate Research Center grant P51 OD011092
+Nutriënten Managment Instituut
+British Geological Survey
+PSAR-AT Unité CED - INSEE PACA
+SED - DR Hauts-de-France - INSEE
+PSAR-SL - DR Auvergne-Rhone-Alpes - INSEE
+PSAR-EER - DR Occitanie - INSEE
+SED - DR Pays-de-la-Loire - INSEE
+lexicalunit
+Technology Agency of the Czech Republic
+ID: 00216224
+Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
+Olink
+OnCrawl
+ONNX Authors
+Open Blender Inc.
+Sight Machine
+Association for Computing Machinery
+openxlsx authors
+Nordwestdeutsche Forstliche Versuchsanstalt NW-FVA
+Sustainable Land-use Planning
+TUM School of Life Sciences - Forest Management
+Sc.D.
+Sonatype
+H
+Tabesh
+AA
+Zulko
+Institut Pasteur de Montevideo
+Gimp
+Inkscape
+Inc. Sangeet Khemlani
+Centers for Disease Control
+Prevention
+Amazon.com
+ZeroMQ authors
+based on Adelchi Azzalini's 'mnormt' package.
+portions
+OR City of Portland
+Élodie Bernardeau
+GGobi Foundation
+gjo11
+Phosphor Icons
+SCHOTT AG
+Midwest Optical Systems
+Inc. MidOpt
+R Hackathon et al. alphabetically: Ben Bolker
+Linux Foundation
+Delapouite
+Creative Commons
+Silicon Graphics Computer Systems Inc.
+Dohme Corp
+Planet Labs Inc
+Plotly Technologies Inc.
+Trestle Technology
+Tableau
+makeyourownmaker
+CorrelAid e.V.
+Handunnethi Nihal de Silva
+Hezky Varon
+Extreme! Lab
+NumPy Team
+Python Team
+Pbc.
+Prevision.io Inc
+urvikalia
+NCSOFT Corporation
+based on read.dcf by R Core Development Team
+ETH Zurich
+Trustees of Mount Holyoke College
+cv.bal.psa
+cv.trans.psa.
+ASHRAE
+MDRC
+MassMutual Advanced Analytics
+Lifetime Extension research center
+ICARDA
+the authors of QuantLib
+WIAS Berlin
+'Andriyana
+Quandl Inc.
+authors of included software. See file AUTHORS for details.
+AcademyOcean
+INERI
+RAM Legacy Stock Assessment Database
+Fortran original by Leo Breiman
+R Core original code
+ActiveState
+authors of the ARPACK library. See file AUTHORS for details.
+Prerau Lab
+RcppParallel Authors
+G-Truc Creation
+Rucknium
+Continuum Analytics
+CDK Project
+Triad sou.
+GeoSapiens
+Delacannon
+based on code written during 2005
+the authors of Eigen for the included version of Eigen
+the authors of MsgPack
+Intel
+Engineering
+Global TIES for Children
+SMS Chauhan
+QOS.ch
+XStream Committers
+Emotion team
+SDMX org
+Receptiviti Inc.
+CodePlex Foundation
+Department for Biogeochemical Integration at MPI-BGC
+Rebilly
+Archytas Clinical Solutions
+ACAS
+MAAA
+CPCU
+abielr
+karldw
+eacute
+re
+rexy.ai
+BASF SE
+Amossys
+GKN Sinter Metals GmbH
+Jr
+Gephi Consortium
+FAU GeoZentrum Nordbayern
+GUGiK
+Handsoncode sp. z o.o.
+Företagsplatsen
+Splunk Inc
+Qoma LLC
+CHAI Project
+ILO
+R Validation Hub
+PSI special interest group Application
+Implementation of Methodologies in Statistics
+Banco Bilbao Vizcaya Argentaria
+S.A.
+Australia.
+R Luminescence Package Team
+AnalytixWare
+W3C
+Drifty
+ProSiebenSat.1 Digital GmbH
+BCG Digital Ventures GmbH
+MOSEK ApS
+CERFACS
+ENS Lyon
+INP Toulouse
+Universite de Bordeaux
+GlaxoSmithKline Research
+Development Limited
+C code by F. Panneton
+Novus Partners
+OBIS
+Sermad Abbas
+TIBCO Software Inc.
+Firely B.V.
+Rapid7
+Basis Technology Corp.
+qbotics
+ACT
+Bug hunting
+testing by Ayodele Fasika
+Ph. D.
+Jr.
+Dohme Corp. a subsidiary of Merck
+Kenilworth
+SQLite Authors
+Synthesis
+Journal of Statistical Software
+MDPI
+Fellowship Group Functional Biogeography at MPI-BGC
+RTSVizTeam
+RLum Team
+except dchud.f
+dchdd.f
+which were written by G. W. Stewart.
+MI
+Sapfluxnet Core Team
+Microsoft Product Recommendations team
+SFU Avalanche Research Program
+RSA Data Security
+Littell
+Stroup
+Wolfinger
+Biotrainee group
+Scryfall
+Wizards of the Coast
+Westat
+Developers Appsilon
+Appsilon
+BioCelerate
+Attractive Chaos
+Physical Sciences Research Council
+Collaborators
+STOR-i
+Norsk Regnesentral
+USDA-NRCS Soil Survey Staff
+ColorlibHQ
+Appsilon sp. z o.o.
+Institut de Radioprotection et de Surete Nucleaire
+Silex Technologies
+RubyLouvre
+Niichan
+Adobe Systems Incorporated
+Marvelapp
+JakubPawlowicz.com
+www.jeasyui.com
+LLC.
+Canonical Ltd
+Institut de Radioprotection et de Sûreté Nucléaire
+JavaScript
+Statistics New Zealand
+Simularia
+Signature Science
+lbusett
+modifications by Daniel W. Schafer
+vignettes contributed by Nicholas Horton
+version 2.1 by Adrian Bowman
+version 2.2 by Adrian Bowman.
+based on datasets provided on the book's website
+based on original code by David Brahm
+livio finos
+GSL authors
+contributions by Max Kuhn
+JuanTomas Sayago
+Fridley Lab
+INRIA-Chile
+Environment
+Climate Change Canada
+Rmetrics core team members.
+the StackOverflow.com community
+rstan developers
+RAC Foundation
+Icelandic Met. Office
+Soubeyrand
+Tollenaere
+Foundry Spatial Ltd.
+Helmholtz-Zentrum fuer Umweltforschung GmbH - UFZ
+Tilera Corporation
+others stringi source code
+others ICU4C source code
+Unicode Character Database
+SmartBear Software
+copyright holder of the Swiss Ephemeris
+Matlab original by Eugene Brevdo
+Inference Technologies
+gbouzill
+codecalm
+Open Knowledge International
+ctwheels StackOverflow
+TensorFlow IO Contributors
+TensorFlow Authors
+Materialize
+Symas Corporation
+Three.js authors
+CSS libraries authors
+DGIE - Banco de México
+master of ecology student from Bayreuth
+DE
+Simulistics Ltd
+Government of Canada
+K. Bret Staudt Willet
+R4DS Online Learning Community
+EDJNet
+TileDB
+Artifex Software
+NHN FE Development Lab
+VK.com
+Centro de Bioinformática y Biología computacional de Colombia - BIOS
+NCT Trial Center
+Heidelberg
+U.S. Deptartment of Health
+UN Comtrade
+Department of Statistics
+Underbit Technologies
+Conservation Science Partners
+covr authors
+suyash
+movisens GmbH
+Uptake Technologies Inc.
+Central Statistical Bureau of Latvia
+data.table team
+Vega/Vega-Lites
+NCAR - Research Applications Laboratory
+Paxdiablo
+CEPOI - EA 7388
+Qualta Consulting
+GovTrack
+Sanitation for the Urban Poor
+II
+U.S. Army Corps of Engineers
+NSF BREAD IOS-1543958
+NPR Visual Team
+Wikimedia Foundation
+Windsor.ai
+Systems Biology
+Bioinformatics Group http://sysbiobig.dei.unipd.it/
+Population Division
+Department of Economic
+various authors for Perl modules listed in each .pm file.
+Tachyons authors
+GitHub Contributors
+using data from Randall Munroe
+Graph Builder
+MetaStuff
+Atorus/GSK JPT
+Pharmetheus
+Pfizer
+Occams
+JS Foundation
+YUIMA Project Team
+Tharso Augustus Rossiter Araújo Monteiro
