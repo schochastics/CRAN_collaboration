@@ -4,18 +4,7 @@ library(ggraph)
 new <- FALSE
 
 if (new) {
-    # get data ----
-    description <- sprintf(
-        "%s/web/packages/packages.rds",
-        getOption("repos")["CRAN"]
-    )
-    con <- if (substring(description, 1L, 7L) == "file://") {
-        file(description, "rb")
-    } else {
-        url(description, "rb")
-    }
-    db <- as.data.frame(readRDS(gzcon(con)), stringsAsFactors = FALSE)
-    close(con)
+    db <- tools::CRAN_package_db()
     rownames(db) <- NULL
     saveRDS(db, paste0("data/", Sys.Date(), "_database.RDS"))
 }
