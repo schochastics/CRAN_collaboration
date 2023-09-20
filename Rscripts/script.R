@@ -21,7 +21,7 @@ if (new) {
     B <- Matrix::t(A) %*% A
     g <- graph_from_adjacency_matrix(B, "undirected", diag = FALSE, weighted = TRUE)
     g1 <- netUtils::biggest_component(g)
-    xy <- graphlayouts::layout_with_sparse_stress(g1, pivots = 200)
+    xy <- graphlayouts::layout_with_stress(g1)
     V(g1)$x <- xy[, 1]
     V(g1)$y <- xy[, 2]
     idx <- which(V(g1)$name == "Hadley Wickham")

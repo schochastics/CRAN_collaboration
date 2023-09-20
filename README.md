@@ -56,6 +56,18 @@ ten developers in that regard are shown below.
 | Posit Software    | 3.21376 |
 | Kevin Ushey       | 3.23419 |
 
+## TidyTuesday 38/2023
+
+This repository was featured on
+[TidyTuesday](https://github.com/rfordatascience/tidytuesday). My
+contribution can be found in the `typst-poster` folder. I created a
+typst poster using the pre-release version of Quarto which supports
+[typst](https://typst.app/). I was inspired by [a
+toot](https://mastodon.social/@scheidegger/111095140348449763) of Carlos
+Scheidegger.
+
+![](figures/poster.png)
+
 ## Disclaimer
 
 The repository only includes the “largest connected component” of the

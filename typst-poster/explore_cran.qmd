@@ -1,0 +1,129 @@
+---
+title: "Exploring the World of CRAN: Collaboration and Dependencies"
+format:
+  poster-typst: 
+    size: "36x24"
+    poster-authors: "David Schoch"
+    departments: "https://mr.schochastics.net"
+    institution-logo: "./images/header.png"
+    univ_logo_scale: "2%"
+    univ_logo_column_size: "5"
+    footer-text: "TidyTuesday 38/2023"
+    footer-url: "https://github.com/schochastics/cran_collaboration"
+    footer-emails: "david@schochastics.net"
+    footer-color: "477491"
+    keywords: ["CRAN", "RStats", "Quarto"]
+    num-columns: 3
+---
+
+```{r}
+#| echo: false
+#| warning: false
+library(igraph)
+library(dplyr)
+library(ggplot2)
+g <- readRDS("../processed_data/coauthor-biggest_comp.RDS")
+d <- readRDS("../processed_data/depend-biggest_comp.RDS")
+```
+
+![R logo](./images/Rlogo.png){width="40%"}
+
+# CRAN collaboration network
+
+The CRAN collaboration network consists of R package developers who are connected if they appear together as authors of an R package in the DESCRIPTION file. The data was crawled on September 5th 2023. The code is available on [GitHub](https://github.com/schochastics/cran_collaboration).
+
+![CRAN collaboration network (September 2023)](./images/collab_network.png){width="100%"}
+
+The network consists of 15419 R developers and 126,988 collaborative ties.
+Note that the graph only shows the *biggest component* of the network. 
+
+# Six Degrees of Hadley Wickham
+
+`````{=typst}
+#block(
+  fill: luma(230),
+  inset: 8pt,
+  radius: 4pt,
+  [
+`````
+If you are familiar with the [Erdős
+number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) number and/or
+the [Bacon
+number](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers)
+then you know where this is going. The “Hadley number” is defined as the
+distance of R developers to Hadley Wickham in the collaboration graph.
+Someone (“A”) who contributed to a package that Hadley has contributed
+to has a Hadley number of 1. Someone who contributed to a package that A
+has contributed to but not Hadley has Hadley number 2, and so on. Hadley
+himself is the only person with Hadley number 0.
+`````{=typst}
+  ]
+)
+`````
+
+The distribution of Hadley numbers is shown in @fig-hadley.
+
+```{r}
+#| echo: false
+#| label: fig-hadley
+#| fig-cap: "Distribution of the Hadley Number of R package developers"
+df <- data.frame(dist = V(g)$dist2HW)
+
+ggplot(df, aes(x = dist)) +
+    geom_histogram(bins = 7, color = "white", fill = "#477491") +
+    theme_minimal() +
+    theme(
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank(),
+    ) +
+    scale_x_continuous(breaks = seq(0, 10), name = "Hadley Number")
+
+```
+
+To get your own Hadley number, head to [GitHub](https://github.com/schochastics/cran_collaboration), download the network and run 
+```r
+library(igraph)
+g <- readRDS("coauthor-biggest_comp.RDS")
+me <- "David Schoch"
+idx <- which(V(g)$name==me)
+V(g)$dist2HW[idx]
+```
+
+# The center of the collaboration network
+
+The center of the collaboration network is defined as the developer
+who’s average distance to all other developers is the lowest. The top
+ten developers in that regard are shown below.
+
+```{r}
+#| echo: false
+#| label: tbl-center
+#| tbl-cap: "Most central developers in the CRAN collaboration network"
+df <- data.frame(Developer = V(g)$name, centrality = V(g)$cc / vcount(g))
+df |>
+    dplyr::top_n(10, -centrality) |>
+    dplyr::arrange(centrality) |>
+    knitr::kable()
+
+
+```
+
+# R package dependency network
+
+The R package dependency network is based on the Imports field in the DESCRIPTION file.
+
+![R package dependency network (based on Imports, September 2023)](./images/depend_network.png){width="100%"}
+
+The dependency network consists of 16855 packages with 94267 imports. 
+
+```{r}
+#| echo: false
+#| label: tbl-import
+#| tbl-cap: "Most frequently imported R packages"
+
+data.frame(package = V(d)$name, imported = degree(d, mode = "in")) |>
+    dplyr::top_n(10, imported) |>
+    arrange(desc(imported)) |>
+    knitr::kable(row.names = FALSE)
+
+```
